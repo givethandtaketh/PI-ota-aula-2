@@ -47,7 +47,7 @@
               <archive>
                 <manifest>
                   <mainClass>
-                    ******************** nome da sua classe principal *****()
+                   com.corkus.app.App 
                   </mainClass>
                 </manifest>
               </archive>
